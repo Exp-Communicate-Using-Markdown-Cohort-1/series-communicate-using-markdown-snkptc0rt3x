@@ -1,15 +1,21 @@
-# h1 header
-## h2 header
+# This is the largest header
+### This is a medium header
+###### This is the smallest header
 
-###### h6 header
+### An Image Example
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+### A Code Example
 
-- [ ] Hello World
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+```
+def main():
+    print('This is a code example in Python')
+```
+### Project Tasks Example
+
+- [x] Project name
+- [X] Project members
+- [ ] Writing
+- [ ] Presentation
+- [ ] Grade
