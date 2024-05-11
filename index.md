@@ -1,16 +1,21 @@
-# h1 header
-## h2 header
-### h3 header
-#### h4 header
-##### h5 header
-###### h6 header
+# This is the largest header
+### This is a medium header
+###### This is the smallest header
+
+### An Image Example
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```
-show ipconfig
-```
+### A Code Example
 
-- [x] Hello World
-- [x] Outline my portfolio
-- [ ] Introduce myself to the world
+```
+def main():
+    print('This is a code example in Python')
+```
+### Project Tasks Example
+
+- [x] Project name
+- [X] Project members
+- [ ] Writing
+- [ ] Presentation
+- [ ] Grade
