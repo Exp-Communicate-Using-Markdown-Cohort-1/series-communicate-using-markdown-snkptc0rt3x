@@ -1,16 +1,15 @@
 # h1 header
 ## h2 header
-### h3 header
-#### h4 header
-##### h5 header
+
 ###### h6 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
-show ipconfig
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- [x] Hello World
-- [x] Outline my portfolio
+- [ ] Hello World
+- [ ] Outline my portfolio
 - [ ] Introduce myself to the world
