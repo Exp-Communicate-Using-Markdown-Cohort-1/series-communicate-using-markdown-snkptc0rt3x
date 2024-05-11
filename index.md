@@ -10,3 +10,7 @@
 ```
 show ipconfig
 ```
+
+- [x] Hello World
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
